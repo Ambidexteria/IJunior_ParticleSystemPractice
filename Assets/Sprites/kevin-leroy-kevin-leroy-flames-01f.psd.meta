@@ -1,0 +1,564 @@
+fileFormatVersion: 2
+guid: 7d8254018568c954184b59fd1b408efd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kevin-leroy-kevin-leroy-flames-01f_0
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1005
+        width: 205
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f732880ddca7749872012aaad2ff66
+      internalID: -802476959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kevin-leroy-kevin-leroy-flames-01f_1
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 979
+        width: 237
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bc28ce3fe91d148b064bb97b0cba18
+      internalID: 2081031508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kevin-leroy-kevin-leroy-flames-01f_2
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 987
+        width: 284
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa62e8a4afbb0b47a7b47c12732cad4
+      internalID: 1395421418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kevin-leroy-kevin-leroy-flames-01f_3
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 982
+        width: 217
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f1d05808ed6984a88d38b8c55affbc
+      internalID: 1317564303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kevin-leroy-kevin-leroy-flames-01f_5
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 970
+        width: 189
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c204c24ae7f54d248bc9f0a8f2454f12
+      internalID: 358545237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kevin-leroy-kevin-leroy-flames-01f_6
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 980
+        width: 221
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1241e2da023574948a4405e579452ff8
+      internalID: -789901158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kevin-leroy-kevin-leroy-flames-01f_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 545
+        width: 240
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87187a7e4a4ec5844bb1d28bc136ea26
+      internalID: 541388996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kevin-leroy-kevin-leroy-flames-01f_8
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 511
+        width: 229
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6502b9a334efc4fadcd05f5958aae3
+      internalID: 2086156126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kevin-leroy-kevin-leroy-flames-01f_9
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 529
+        width: 243
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e412451c9f8b346428438061497d496d
+      internalID: 1361651929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kevin-leroy-kevin-leroy-flames-01f_10
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 548
+        width: 230
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f282c0e0687eae64698e7c47e6558fc8
+      internalID: -355119835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kevin-leroy-kevin-leroy-flames-01f_11
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 555
+        width: 223
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cf993b7433b2e49ac5432056dad760
+      internalID: -743452506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kevin-leroy-kevin-leroy-flames-01f_12
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 555
+        width: 219
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c78bcfd916dd314b8da89dbe4d33dd0
+      internalID: 1539750064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kevin-leroy-kevin-leroy-flames-01f_13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 67
+        width: 219
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e005a68dd46224443b7735ebd2867aca
+      internalID: 1235062833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kevin-leroy-kevin-leroy-flames-01f_14
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 65
+        width: 291
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31cd2f4317fc9145859cc9a8b82fdf6
+      internalID: -1594396839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kevin-leroy-kevin-leroy-flames-01f_15
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 69
+        width: 243
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220c94ba4f0d38e4f91f4a2aaebdba92
+      internalID: -1973592001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kevin-leroy-kevin-leroy-flames-01f_17
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 72
+        width: 215
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdc19c68ec0feb4c99c33470384ecd0
+      internalID: 299267759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kevin-leroy-kevin-leroy-flames-01f_18
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 64
+        width: 207
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52d29cf92ad85548bdd2bf36caa04dd
+      internalID: 1708956125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kevin-leroy-kevin-leroy-flames-01f_19
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 75
+        width: 246
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082119299288f3f48a20aec76e0c35d8
+      internalID: 1246401023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kevin-leroy-kevin-leroy-flames-01f_0: -802476959
+      kevin-leroy-kevin-leroy-flames-01f_1: 2081031508
+      kevin-leroy-kevin-leroy-flames-01f_10: -355119835
+      kevin-leroy-kevin-leroy-flames-01f_11: -743452506
+      kevin-leroy-kevin-leroy-flames-01f_12: 1539750064
+      kevin-leroy-kevin-leroy-flames-01f_13: 1235062833
+      kevin-leroy-kevin-leroy-flames-01f_14: -1594396839
+      kevin-leroy-kevin-leroy-flames-01f_15: -1973592001
+      kevin-leroy-kevin-leroy-flames-01f_16: -1661700458
+      kevin-leroy-kevin-leroy-flames-01f_17: 299267759
+      kevin-leroy-kevin-leroy-flames-01f_18: 1708956125
+      kevin-leroy-kevin-leroy-flames-01f_19: 1246401023
+      kevin-leroy-kevin-leroy-flames-01f_2: 1395421418
+      kevin-leroy-kevin-leroy-flames-01f_3: 1317564303
+      kevin-leroy-kevin-leroy-flames-01f_4: -1304796085
+      kevin-leroy-kevin-leroy-flames-01f_5: 358545237
+      kevin-leroy-kevin-leroy-flames-01f_6: -789901158
+      kevin-leroy-kevin-leroy-flames-01f_7: 541388996
+      kevin-leroy-kevin-leroy-flames-01f_8: 2086156126
+      kevin-leroy-kevin-leroy-flames-01f_9: 1361651929
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
