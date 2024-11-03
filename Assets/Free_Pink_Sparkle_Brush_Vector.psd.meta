@@ -1,0 +1,514 @@
+fileFormatVersion: 2
+guid: 3fa9a02cc9886f84ba0e3c8bbf7f5013
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Free_Pink_Sparkle_Brush_Vector_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 663
+        width: 165
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55024f6cf89ea9c488601c39e90e95f4
+      internalID: -350803608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Pink_Sparkle_Brush_Vector_1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 653
+        width: 177
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0b763da7984d24cb8b7202dfaf6298
+      internalID: 2115209646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Pink_Sparkle_Brush_Vector_2
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 655
+        width: 174
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84621e12124adc94c9b0573125197e36
+      internalID: 649142791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Pink_Sparkle_Brush_Vector_3
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 663
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cc650337eba864ca0e0924459b695d
+      internalID: -467800364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Pink_Sparkle_Brush_Vector_4
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 675
+        width: 126
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9134d597ca107304f8365851cc728d0a
+      internalID: -1913855138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Pink_Sparkle_Brush_Vector_5
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 681
+        width: 139
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32025b08c3833d42a507f76ee660555
+      internalID: -275027766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Pink_Sparkle_Brush_Vector_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 366
+        width: 205
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d83fd1936bd85499895019759a16cf
+      internalID: -701392514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Pink_Sparkle_Brush_Vector_11
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 382
+        width: 162
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36fca04fad2f3a4882bf7fe83e081b7
+      internalID: -1639635200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Pink_Sparkle_Brush_Vector_12
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 403
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81be56b10e255034bb6a06188da4a137
+      internalID: -515222721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Pink_Sparkle_Brush_Vector_13
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 398
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e4d8d4e7dd1fe409ec7e29f23894d5
+      internalID: 1187327506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Pink_Sparkle_Brush_Vector_14
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 400
+        width: 137
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b9f6ca50a3af546a3417fc073156ef
+      internalID: -1060426535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Pink_Sparkle_Brush_Vector_20
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 113
+        width: 137
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7cee0691dbd854f8cffa544f9e1dea
+      internalID: 697742809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Pink_Sparkle_Brush_Vector_21
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 105
+        width: 189
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efdad18334f5334781b331629b3cc70
+      internalID: 254575327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Pink_Sparkle_Brush_Vector_22
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 107
+        width: 184
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a7f225f92c155419f37ac85ba3a525
+      internalID: -467498199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Pink_Sparkle_Brush_Vector_23
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 127
+        width: 184
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268958f1525b7b74a84254578ab598cf
+      internalID: -1933953363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Pink_Sparkle_Brush_Vector_24
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 139
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bbfad1b75a63f4fa7faeb55d76da66
+      internalID: 173711277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7d1985afc04000241b40294231973cc5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Free_Pink_Sparkle_Brush_Vector_0: -350803608
+      Free_Pink_Sparkle_Brush_Vector_1: 2115209646
+      Free_Pink_Sparkle_Brush_Vector_10: -137770512
+      Free_Pink_Sparkle_Brush_Vector_11: -1639635200
+      Free_Pink_Sparkle_Brush_Vector_12: -515222721
+      Free_Pink_Sparkle_Brush_Vector_13: 1187327506
+      Free_Pink_Sparkle_Brush_Vector_14: -1060426535
+      Free_Pink_Sparkle_Brush_Vector_15: 523733601
+      Free_Pink_Sparkle_Brush_Vector_16: 607605039
+      Free_Pink_Sparkle_Brush_Vector_17: 1615749101
+      Free_Pink_Sparkle_Brush_Vector_18: 1874342148
+      Free_Pink_Sparkle_Brush_Vector_19: -633711603
+      Free_Pink_Sparkle_Brush_Vector_2: 649142791
+      Free_Pink_Sparkle_Brush_Vector_20: 697742809
+      Free_Pink_Sparkle_Brush_Vector_21: 254575327
+      Free_Pink_Sparkle_Brush_Vector_22: -467498199
+      Free_Pink_Sparkle_Brush_Vector_23: -1933953363
+      Free_Pink_Sparkle_Brush_Vector_24: 173711277
+      Free_Pink_Sparkle_Brush_Vector_3: -467800364
+      Free_Pink_Sparkle_Brush_Vector_4: -1913855138
+      Free_Pink_Sparkle_Brush_Vector_5: -275027766
+      Free_Pink_Sparkle_Brush_Vector_6: -701392514
+      Free_Pink_Sparkle_Brush_Vector_7: -908576115
+      Free_Pink_Sparkle_Brush_Vector_8: 672830068
+      Free_Pink_Sparkle_Brush_Vector_9: 1746895365
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

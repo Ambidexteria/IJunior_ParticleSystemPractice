@@ -572,9 +572,81 @@ PrefabInstance:
       value: Snowfall
       objectReference: {fileID: 0}
     - target: {fileID: 2986279667131334987, guid: 46ba0765975d1344190de7310b36c4cc, type: 3}
+      propertyPath: UVModule.tilesX
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2986279667131334987, guid: 46ba0765975d1344190de7310b36c4cc, type: 3}
+      propertyPath: UVModule.tilesY
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2986279667131334987, guid: 46ba0765975d1344190de7310b36c4cc, type: 3}
+      propertyPath: UVModule.enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2986279667131334987, guid: 46ba0765975d1344190de7310b36c4cc, type: 3}
+      propertyPath: ColorModule.enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2986279667131334987, guid: 46ba0765975d1344190de7310b36c4cc, type: 3}
+      propertyPath: UVModule.startFrame.scalar
+      value: 0.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 2986279667131334987, guid: 46ba0765975d1344190de7310b36c4cc, type: 3}
+      propertyPath: InitialModule.maxNumParticles
+      value: 2000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2986279667131334987, guid: 46ba0765975d1344190de7310b36c4cc, type: 3}
+      propertyPath: UVModule.frameOverTime.scalar
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2986279667131334987, guid: 46ba0765975d1344190de7310b36c4cc, type: 3}
+      propertyPath: InitialModule.startSize.scalar
+      value: 0.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 2986279667131334987, guid: 46ba0765975d1344190de7310b36c4cc, type: 3}
+      propertyPath: UVModule.startFrame.minMaxState
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2986279667131334987, guid: 46ba0765975d1344190de7310b36c4cc, type: 3}
+      propertyPath: InitialModule.startSize.minScalar
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 2986279667131334987, guid: 46ba0765975d1344190de7310b36c4cc, type: 3}
+      propertyPath: EmissionModule.rateOverTime.scalar
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 2986279667131334987, guid: 46ba0765975d1344190de7310b36c4cc, type: 3}
+      propertyPath: UVModule.frameOverTime.minMaxState
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2986279667131334987, guid: 46ba0765975d1344190de7310b36c4cc, type: 3}
       propertyPath: CollisionModule.m_Planes.Array.data[0]
       value: 
       objectReference: {fileID: 1266442483}
+    - target: {fileID: 2986279667131334987, guid: 46ba0765975d1344190de7310b36c4cc, type: 3}
+      propertyPath: ColorModule.gradient.maxGradient.atime1
+      value: 45875
+      objectReference: {fileID: 0}
+    - target: {fileID: 2986279667131334987, guid: 46ba0765975d1344190de7310b36c4cc, type: 3}
+      propertyPath: ColorModule.gradient.maxGradient.atime2
+      value: 65535
+      objectReference: {fileID: 0}
+    - target: {fileID: 2986279667131334987, guid: 46ba0765975d1344190de7310b36c4cc, type: 3}
+      propertyPath: ColorModule.gradient.maxGradient.key2.a
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2986279667131334987, guid: 46ba0765975d1344190de7310b36c4cc, type: 3}
+      propertyPath: ColorModule.gradient.maxGradient.m_ColorSpace
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2986279667131334987, guid: 46ba0765975d1344190de7310b36c4cc, type: 3}
+      propertyPath: ColorModule.gradient.maxGradient.m_NumAlphaKeys
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5348220628242953159, guid: 46ba0765975d1344190de7310b36c4cc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e66c778ee6d4916429b0ec6d79481f2a, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
